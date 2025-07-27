@@ -54,6 +54,9 @@ JOIN category c ON fc.category_id = c.category_id
 GROUP BY c.name
 ORDER BY total_sales DESC;
 
+
+
+
 Author
 Name: jagrati sen
 Email: jagratisen.2116@gmail.com
