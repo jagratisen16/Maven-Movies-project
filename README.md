@@ -42,6 +42,6 @@ This project is a comprehensive SQL-based analysis using the **Maven Movies** da
 
 
 
-Author
-Name: jagrati sen
-Email: jagratisen.2116@gmail.com
+## Author
+- Name: jagrati sen
+- Email: jagratisen.2116@gmail.com
